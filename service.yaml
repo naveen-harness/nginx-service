@@ -1,9 +1,0 @@
-service:
-  name: nginx-service
-  identifier: nginxservice
-  orgIdentifier: default
-  projectIdentifier: default_project
-  serviceDefinition:
-    spec:
-      manifests: []
-    type: Kubernetes
